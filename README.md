@@ -1,4 +1,8 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving)
+### 헬룽 👋
+
+
+[![sdylockon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sdylockon&theme=react)](https://github.com/sdylockon/github-readme-stats)
 
 <!--
 **sdylockon/sdylockon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
