@@ -2,8 +2,7 @@
   
   ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20👋&animation=twinkling&fontSize=35&height=220)
 
-  <h3>헬룽 반가와요👋</h3>
-  <h3>내가 바로 이 구역 외계인 선글라스 😎</h3>
+  
   <br/>
   <h3>Used Stacks💻</h3>
   <div>
